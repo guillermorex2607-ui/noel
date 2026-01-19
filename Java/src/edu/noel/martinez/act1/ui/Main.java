@@ -1,4 +1,4 @@
-package edu.noel.martinez.Act1.Ui;
+package edu.noel.martinez.act1.ui;
 
 public class Main {
     public static void main(String[] args) {

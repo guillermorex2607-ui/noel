@@ -1,4 +1,4 @@
-package edu.noel.martinez.Act1.Process;
+package edu.noel.martinez.act1.process;
 
 public class Auto {
     private String modelo;

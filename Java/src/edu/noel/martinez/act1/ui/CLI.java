@@ -1,7 +1,7 @@
-package edu.noel.martinez.Act1.Ui;
+package edu.noel.martinez.act1.ui;
 
-import edu.noel.martinez.Act1.Data.Catalogo;
-import edu.noel.martinez.Act1.Process.Auto;
+import edu.noel.martinez.act1.Data.Catalogo;
+import edu.noel.martinez.act1.process.Auto;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.text.SimpleDateFormat;

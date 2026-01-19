@@ -1,6 +1,6 @@
-package edu.noel.martinez.Act1.Data;
+package edu.noel.martinez.act1.Data;
 
-import edu.noel.martinez.Act1.Process.Auto;
+import edu.noel.martinez.act1.process.Auto;
 
 public class Catalogo {
     public static Auto[] obtenerAutos() {
