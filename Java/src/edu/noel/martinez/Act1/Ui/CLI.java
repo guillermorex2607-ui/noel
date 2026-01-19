@@ -53,6 +53,6 @@ public class CLI {
         }
 
         System.out.println("\nTOTAL A PAGAR: $" + total);
-        System.out.println("Gracias por su compra 🚗💨");
+        System.out.println("Gracias por su compra");
     }
 }
