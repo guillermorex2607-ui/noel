@@ -2,7 +2,7 @@ package edu.noel.martinez.act1.process;
 
 public class Auto {
     private String modelo;
-    private String tipoMotor; // Eléctrico, Combustión, Híbrido
+    private String tipoMotor; // Electrico, Combustión, Híbrido
     private int puertas;
     private String color;
     private double precio;

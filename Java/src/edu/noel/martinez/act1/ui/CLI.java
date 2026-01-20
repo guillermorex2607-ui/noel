@@ -14,7 +14,7 @@ public class CLI {
         ArrayList<Auto> seleccionados = new ArrayList<>();
 
         System.out.println("=== Bienvenido al sistema de venta de vehículos ===");
-        System.out.print("Ingrese su nombre: ");
+        System.out.print("Escriba su nombre: ");
         String cliente = sc.nextLine();
 
         boolean continuar = true;
