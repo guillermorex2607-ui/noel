@@ -1,4 +1,4 @@
-package edu.noel.martinez.act1.Data;
+package edu.noel.martinez.act1.data;
 
 import edu.noel.martinez.act1.process.Auto;
 

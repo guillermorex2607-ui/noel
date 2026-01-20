@@ -1,6 +1,6 @@
 package edu.noel.martinez.act1.ui;
 
-import edu.noel.martinez.act1.Data.Catalogo;
+import edu.noel.martinez.act1.data.Catalogo;
 import edu.noel.martinez.act1.process.Auto;
 import java.util.ArrayList;
 import java.util.Scanner;
