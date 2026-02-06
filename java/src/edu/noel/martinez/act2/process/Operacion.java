@@ -1,4 +1,6 @@
 package edu.noel.martinez.act2.process;
 
-public class Operacion {
+// Interfaz base para operaciones
+public interface Operacion {
+    int realizarOperacion(int a, int b);
 }
